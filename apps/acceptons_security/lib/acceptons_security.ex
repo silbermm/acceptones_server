@@ -1,0 +1,2 @@
+defmodule AcceptonsSecurity do
+end
